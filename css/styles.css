@@ -49,12 +49,13 @@ hr {
 }
 .bottom-cloud {
   position: absolute;
-  left: 450px;
+  left: 300px;
   bottom: 500px;
   height: 50px;
 }
 .profile {
   border-radius: 100%;
+  width: 50%;
 }
 .skills {
   border-radius: 100%;
